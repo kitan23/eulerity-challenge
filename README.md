@@ -65,6 +65,7 @@
 * Hover on each picture to discover some surprises. 
 * Select your favourite photos and click download.
 * There you go. You have for yourself cute animal photo and a beautiful wallpaper.
+* Link to the website: https://eulerity-challenge-omi35lf2h-kitan23.vercel.app/home
 
 
 
